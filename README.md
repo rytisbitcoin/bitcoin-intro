@@ -1,7 +1,8 @@
 # Lessons
-| # | Title | Description | Time to Complete | 
-| :--- | :----- | :----------- | :---------------- |
-| 1 | [What Is Bitcoin?](#what-is-bitcoin) | A quick overview to get the basic idea | 5-10 Minutes | 
+
+| #       | Title                                 | Description                             | Time to Complete | 
+|:--------|:--------------------------------------|:----------------------------------------|:---------------- |
+| 1       | [What Is Bitcoin?](#what-is-bitcoin)  | A quick overview to get the basic idea  | 5-10 Minutes | 
 
 # What is Bitcoin?
 ###### *Written by [Greg Walker](https://twitter.com/in3rsha)*
