@@ -46,4 +46,4 @@ Thanks to this system of “mining” (preventing any double-spends from being w
 
 That’s Bitcoin.
 
-![](introduction.png)
+![](/assets/images/introduction.png)
