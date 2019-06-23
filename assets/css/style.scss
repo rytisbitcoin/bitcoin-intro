@@ -2,3 +2,11 @@
 ---
 
 @import "jekyll-theme-slate";
+#header_wrap {
+  background: #FF9900;
+  background: -moz-linear-gradient(top, #ed8f02, #FF9900);
+  background: -webkit-linear-gradient(top, #ed8f02, #FF9900);
+  background: -ms-linear-gradient(top, #ed8f02, #FF9900);
+  background: -o-linear-gradient(top, #ed8f02, #FF9900);
+  background: linear-gradient(to top, #ed8f02, #FF9900);
+}
