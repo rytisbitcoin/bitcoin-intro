@@ -10,3 +10,19 @@
   background: -o-linear-gradient(top, #ed8f02, #FF9900);
   background: linear-gradient(to top, #ed8f02, #FF9900);
 }
+
+#project_title {
+  margin: 0;
+  color: #373737;
+  font-size: 42px;
+  font-weight: 700;
+  text-shadow: #111 0px 0px 0px;
+}
+
+#project_tagline {
+  color: #373737;
+  font-size: 24px;
+  font-weight: 300;
+  background: none;
+  text-shadow: #111 0px 0px 0px;
+}
