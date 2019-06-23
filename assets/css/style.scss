@@ -2,6 +2,11 @@
 ---
 
 @import "jekyll-theme-slate";
+form {
+  background: #FF9900;
+  padding: 20px;
+}
+
 #header_wrap {
   background: #FF9900;
   background: -moz-linear-gradient(top, #ed8f02, #FF9900);
