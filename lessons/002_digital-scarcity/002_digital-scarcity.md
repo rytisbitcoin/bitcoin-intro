@@ -1,3 +1,3 @@
 # **Lesson 002 - Digital Scarcity**
 
-![.](002_digital_scarcity.jpg)
+![.](002_digital-scarcity.jpg)
