@@ -93,7 +93,7 @@
 ## Step 7. Running a Node
 *Aim: Understand how and why bitcoiners run their own full nodes.*
 
-1. Why run a full node >>> SUGGESTIONS WANTED <<<<
+1. [Benefits of a Full Node](https://www.youtube-nocookie.com/embed/D11R0W2uxeM)
 2. Video Tutorials: [Install Linux](https://www.youtube.com/watch?v=0Zq_JdExHkE&list=PLmoQ11MXEmagwLs0NtjadkyVwc-CFfr4h) & [Install Core](https://www.youtube.com/watch?v=q0Uen8p4feM&list=PLmoQ11MXEmag9I2ibHnubzJdjDqypujCk)
 3. [Written Tutorial](https://medium.com/hackernoon/a-complete-beginners-guide-to-installing-a-bitcoin-full-node-on-linux-2018-edition-cb8e384479ea)
 
