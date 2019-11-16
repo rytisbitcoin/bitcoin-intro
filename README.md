@@ -27,7 +27,7 @@
 
 | I have a printer | I don't have a printer |
 | --- | --- |
-| Print [this PDF](https://github.com/6102bitcoin/FAQ/raw/master/start-using-bitcoin_LESSON1.pdf) & Track your progress by ticking off steps in the `Done` column. | Save [this PDF](https://github.com/6102bitcoin/FAQ/raw/master/start-using-bitcoin_LESSON1.pdf) to your desktop & Track your progress by renaming the PDF to include the next Lesson Number (e.g. `Start_Using_Bitcoin_Lesson2`) |
+| Print [this PDF](https://github.com/6102bitcoin/bitcoin-intro/raw/master/bitcoin-intro.pdf) & Track your progress by ticking off steps in the `Done` column. | Save [this PDF](https://github.com/6102bitcoin/bitcoin-intro/raw/master/bitcoin-intro.pdf) to your desktop & Track your progress by renaming the PDF to include the next Lesson Number (e.g. `Start_Using_Bitcoin_Lesson2`) |
 
 -----
 
