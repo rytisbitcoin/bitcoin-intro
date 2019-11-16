@@ -1,5 +1,5 @@
-## Start Using Bitcoin
-A practical way to onboard new bitcoiners.
+## Bitcoin Intro
+Start Using Bitcoin
 
 ###### Guiding Principles
 - Starting simply and improving is better than than not starting at all
