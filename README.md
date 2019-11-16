@@ -1,6 +1,3 @@
-## Bitcoin Intro
-Start Using Bitcoin
-
 ###### Guiding Principles
 - Starting simply and improving is better than than not starting at all
 - It's more engaging to use tools before reading a detailed explanation
