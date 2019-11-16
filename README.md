@@ -22,8 +22,8 @@
 | 11. | Technical Details                               |   |
 
 -----
-
-## Step 0. Setup
+Step 0
+## Setup
 
 | I have a printer | I don't have a printer |
 | --- | --- |
