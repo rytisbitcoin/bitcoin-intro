@@ -123,7 +123,7 @@
 2. Transfer some bitcoin to is (a small amount)
 3. Send bitcoin over lightning
 4. Watch [The Importance of Layer Two](https://www.youtube-nocookie.com/embed/3PcR4HWJnkY)
-5. Read [LNP/BP](https://github.com/6102bitcoin/bitcoin-intro/raw/master/QA%20bitcoin-159-165.pdf) as compared to TCP/IP.
+5. Read [LNP/BP](https://github.com/6102bitcoin/bitcoin-intro/raw/master/QA%20bitcoin-159-165.pdf) as compared to TCP/IP (extract from [Q/A About Bitcoin](https://twitter.com/QAaboutBitcoin).
 
 -----
 
