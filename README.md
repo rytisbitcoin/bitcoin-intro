@@ -102,9 +102,9 @@
 ## Step 8. Joining In
 *Aim: Discover how to get involved discussions about bitcoin.*
 
-1. Join Twitter & follow the [Bitcoin Wizards](https://bitcoin-wizards.com/) >>> NOT LIVE <<<
-2. Attend a [local meetup](https://bitcoin-only.com/#meetups)
-3. [Subscribe](https://bitcoinops.org/en/newsletters/) to bitcoin op-tech
+1. Attend a [local meetup](https://bitcoin-only.com/#meetups)
+2. [Subscribe](https://bitcoinops.org/en/newsletters/) to bitcoin op-tech
+3. Join Twitter and follow bitcoiners you come across.
 
 -----
 
